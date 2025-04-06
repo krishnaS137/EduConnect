@@ -1,0 +1,22 @@
+.product{
+    margin-left: 30%;
+}
+
+
+.inputbox{
+    padding: 7px;
+    display:block;
+    border: 1px solid skyblue;
+    width: 300px;
+    margin:20px;
+}
+
+.appbutt{
+    margin: 20px;
+    width: 150px;
+    padding:10px;
+    border: 1px solid;
+    background-color: black;
+    text-align: center;
+    justify-content: center;
+}

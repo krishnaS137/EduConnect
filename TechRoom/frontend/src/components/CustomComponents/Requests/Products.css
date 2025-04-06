@@ -1,0 +1,11 @@
+.ProductList{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.ProductList ul li{
+    display: inline-block;
+    width: 150px;
+    border:1px solid black;
+    padding: 5px;
+}
